@@ -24,11 +24,12 @@ To deploy this project:
 ## API Reference
 
 This project uses the covid19api.com by Kyle Redelinghuys
+The service providing the covid 19 API was discontinued in May. Therefore, all data cannot be displayed due to the lack of connection to the API.
 - [@API-covid](https://covid19api.com/)
 
 
 ## 🚀 About Me
-I'm a full stack developer / Java Developer at Spindox...
+I'm a full stack developer / Java Developer at ATS S.p.A in Turin...
 
 
 ## 🔗 Links
@@ -36,7 +37,7 @@ I'm a full stack developer / Java Developer at Spindox...
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working at Spindox SPA
+👩‍💻 I'm currently working at ATS SPA
 
-🧠 I'm currently learning Vue.js / Angular / Node.js / Flutter
+🧠 I'm currently learning Vue.js / Angular / Node.js / Flutter / Spring Boot and React.js
 
