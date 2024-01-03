@@ -23,7 +23,8 @@ To deploy this project:
 
 ## API Reference
 
-This project uses the covid19api.com by Kyle Redelinghuys
+This project uses the covid19api.com by Kyle Redelinghuys.
+
 The service providing the covid 19 API was discontinued in May. Therefore, all data cannot be displayed due to the lack of connection to the API.
 - [@API-covid](https://covid19api.com/)
 
