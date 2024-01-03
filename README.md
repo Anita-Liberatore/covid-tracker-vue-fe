@@ -30,6 +30,9 @@ The service providing the covid 19 API was discontinued in May. Therefore, all d
 There are fake data api with mock data.
 - [@API-covid](https://covid19api.com/) (discontinued in may - does not work)
 
+- Web site deployed with Netlify
+  [@CovidTrackerVueFe](https://master--celadon-kelpie-56785d.netlify.app/)
+
 
 ## 🚀 About Me
 I'm a full stack developer / Java Developer at ATS S.p.A in Turin...
