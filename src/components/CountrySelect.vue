@@ -5,8 +5,8 @@
       @change="onChange()"
     >
       <option value="0">Select Country</option>
-      <option v-for="country in countries" :value="country.ID">
-        {{ country.Country }}
+      <option v-for="country in countries" :value="country">
+        {{ country }}
       </option>
     </select>
   </template>
@@ -21,7 +21,8 @@
       return {
         selected,
         onChange () {
-          const country = countries.find((item) => item.ID === selected.value);
+          const country = countries.find((item) => item === selected.value);
+          console.log(country)
           emit('get-country', country);
         }
       };
